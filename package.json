@@ -1,0 +1,21 @@
+{
+  "name": "ga-adword",
+  "version": "1.0.0",
+  "description": "adword",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wasim",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "google-ads-api": "^4.0.3",
+    "googleapis": "^65.0.0"
+  },
+  "devDependencies": {
+    "ts-node": "^9.0.0",
+    "typescript": "^4.1.2"
+  }
+}
